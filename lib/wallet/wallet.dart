@@ -79,6 +79,7 @@ class _WalletPageState extends State<WalletPage>
         borderRadius: BorderRadius.circular(65),
       ),
       child: Scaffold(
+        
         backgroundColor: Colors.white,
         body: Stack(
           children: <Widget>[dashboard(context), menu(context)],

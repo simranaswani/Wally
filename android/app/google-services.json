@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1080672770445",
+    "firebase_url": "https://moneylotto-1e364.firebaseio.com",
+    "project_id": "moneylotto-1e364",
+    "storage_bucket": "moneylotto-1e364.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080672770445:android:7d1d2932a805d2896045c4",
+        "android_client_info": {
+          "package_name": "com.moneylotto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080672770445-0biu444b05ufdnnof8kut4mclubtn0n6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.moneylotto",
+            "certificate_hash": "d7395570f6bf9a30dddce083f7cf79c0074a61d0"
+          }
+        },
+        {
+          "client_id": "1080672770445-r8mourqpfaoi3p13ovs1dsuiv7npv7ts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYEfFPtchxHUq8A4y5lV_qGD0bLNkeZIY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080672770445-r8mourqpfaoi3p13ovs1dsuiv7npv7ts.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1080672770445-tcrh6dr6tiitts6694v7jjv3fetpn3r6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.moneylotto"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
